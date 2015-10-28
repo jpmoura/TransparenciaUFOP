@@ -1,0 +1,11 @@
+# Ignorar arquivos que auxilam a criação do documento
+*.bak
+*.aux
+*.bbl
+*.blg
+*.log
+*.nav
+*.out
+*.snm
+*.toc
+*.gz
